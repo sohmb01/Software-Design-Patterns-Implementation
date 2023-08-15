@@ -1,0 +1,7 @@
+For compiling 
+
+javac GUI.java
+
+For Execution
+
+java GUI
